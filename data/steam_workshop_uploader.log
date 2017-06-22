@@ -1,0 +1,222 @@
+
+-------------------------------------------------------------------------------
+Parsing project file - E:\XinSon\Desktop\Darkest Dungeon mods\Darkest dungeon Voices Test\data\VoicesTest_project.xml
+Mod Data Directory = E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/
+
+-------------------------------------------------------------------------------
+Processing Map Files files...
+
+-------------------------------------------------------------------------------
+Searching for preview icon file E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/preview_icon.png...FOUND!
+<UploadMode> - Set to direct_upload
+
+
+-------------------------------------------------------------------------------
+Detected 172 unchanged files
+The following files are unchanged and will be uploaded...
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/dlc/580100_crimson_court/features/crimson_court/monsters/sycophant/anim/sycophant.sprite.attack_bomb.atlas
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/dlc/580100_crimson_court/features/crimson_court/monsters/sycophant/anim/sycophant.sprite.attack_bomb.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/dlc/580100_crimson_court/features/crimson_court/monsters/sycophant/anim/sycophant.sprite.attack_bomb.skel
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/dlc/580100_crimson_court/features/crimson_court/monsters/sycophant/anim/sycophant.sprite.attack_feed.atlas
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/dlc/580100_crimson_court/features/crimson_court/monsters/sycophant/anim/sycophant.sprite.attack_feed.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/dlc/580100_crimson_court/features/crimson_court/monsters/sycophant/anim/sycophant.sprite.attack_feed.skel
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/dlc/580100_crimson_court/features/crimson_court/monsters/sycophant/anim/sycophant.sprite.attack_tail.atlas
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/dlc/580100_crimson_court/features/crimson_court/monsters/sycophant/anim/sycophant.sprite.attack_tail.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/dlc/580100_crimson_court/features/crimson_court/monsters/sycophant/anim/sycophant.sprite.attack_tail.skel
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/dlc/580100_crimson_court/features/crimson_court/monsters/sycophant/anim/sycophant.sprite.attack_whine.atlas
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/dlc/580100_crimson_court/features/crimson_court/monsters/sycophant/anim/sycophant.sprite.attack_whine.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/dlc/580100_crimson_court/features/crimson_court/monsters/sycophant/anim/sycophant.sprite.attack_whine.skel
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/dlc/580100_crimson_court/features/crimson_court/monsters/sycophant/anim/sycophant.sprite.combat.atlas
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/dlc/580100_crimson_court/features/crimson_court/monsters/sycophant/anim/sycophant.sprite.combat.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/dlc/580100_crimson_court/features/crimson_court/monsters/sycophant/anim/sycophant.sprite.combat.skel
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/dlc/580100_crimson_court/features/crimson_court/monsters/sycophant/anim/sycophant.sprite.defend.atlas
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/dlc/580100_crimson_court/features/crimson_court/monsters/sycophant/anim/sycophant.sprite.defend.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/dlc/580100_crimson_court/features/crimson_court/monsters/sycophant/anim/sycophant.sprite.defend.skel
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/dlc/580100_crimson_court/features/crimson_court/monsters/sycophant/fx/sycophant.sprite.bombing_run_target.atlas
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/dlc/580100_crimson_court/features/crimson_court/monsters/sycophant/fx/sycophant.sprite.bombing_run_target.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/dlc/580100_crimson_court/features/crimson_court/monsters/sycophant/fx/sycophant.sprite.bombing_run_target.skel
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/dlc/580100_crimson_court/features/crimson_court/monsters/sycophant/fx/sycophant.sprite.deafening_whine.atlas
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/dlc/580100_crimson_court/features/crimson_court/monsters/sycophant/fx/sycophant.sprite.deafening_whine.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/dlc/580100_crimson_court/features/crimson_court/monsters/sycophant/fx/sycophant.sprite.deafening_whine.skel
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/dlc/580100_crimson_court/features/crimson_court/monsters/sycophant/fx/sycophant.sprite.maddening_whine.atlas
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/dlc/580100_crimson_court/features/crimson_court/monsters/sycophant/fx/sycophant.sprite.maddening_whine.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/dlc/580100_crimson_court/features/crimson_court/monsters/sycophant/fx/sycophant.sprite.maddening_whine.skel
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/dlc/580100_crimson_court/features/crimson_court/monsters/sycophant/fx/sycophant.sprite.maddening_whine_target.atlas
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/dlc/580100_crimson_court/features/crimson_court/monsters/sycophant/fx/sycophant.sprite.maddening_whine_target.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/dlc/580100_crimson_court/features/crimson_court/monsters/sycophant/fx/sycophant.sprite.maddening_whine_target.skel
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/dlc/580100_crimson_court/features/crimson_court/monsters/sycophant/fx/sycophant.sprite.the_hunger.atlas
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/dlc/580100_crimson_court/features/crimson_court/monsters/sycophant/fx/sycophant.sprite.the_hunger.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/dlc/580100_crimson_court/features/crimson_court/monsters/sycophant/fx/sycophant.sprite.the_hunger.skel
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/dlc/580100_crimson_court/features/crimson_court/monsters/sycophant/sycophant_A/sycophant_A.art.darkest
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/dlc/580100_crimson_court/features/crimson_court/monsters/sycophant/sycophant_A/tint.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/dlc/580100_crimson_court/features/crimson_court/monsters/sycophant/sycophant_B/sycophant_B.art.darkest
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/dlc/580100_crimson_court/features/crimson_court/monsters/sycophant/sycophant_B/tint.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/dlc/580100_crimson_court/features/crimson_court/monsters/sycophant/sycophant_C/sycophant_C.art.darkest
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/dlc/580100_crimson_court/features/crimson_court/monsters/sycophant/sycophant_C/tint.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/crow/anim/crow.sprite.attack_caw.atlas
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/crow/anim/crow.sprite.attack_caw.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/crow/anim/crow.sprite.attack_caw.skel
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/crow/anim/crow.sprite.attack_escape.atlas
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/crow/anim/crow.sprite.attack_escape.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/crow/anim/crow.sprite.attack_escape.skel
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/crow/anim/crow.sprite.attack_peck.atlas
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/crow/anim/crow.sprite.attack_peck.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/crow/anim/crow.sprite.attack_peck.skel
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/crow/anim/crow.sprite.combat.atlas
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/crow/anim/crow.sprite.combat.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/crow/anim/crow.sprite.combat.skel
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/crow/anim/crow.sprite.defend.atlas
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/crow/anim/crow.sprite.defend.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/crow/anim/crow.sprite.defend.skel
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/crow/crow_A/crow_A.art.darkest
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/crow/crow_A/tint.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/crow/crow_B/crow_B.art.darkest
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/crow/crow_B/tint.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/crow/crow_C/crow_C.art.darkest
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/crow/crow_C/tint.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/crow/fx/crow.sprite.call_the_murder.atlas
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/crow/fx/crow.sprite.call_the_murder.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/crow/fx/crow.sprite.call_the_murder.skel
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/crow/fx/crow.sprite.call_the_murder_target.atlas
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/crow/fx/crow.sprite.call_the_murder_target.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/crow/fx/crow.sprite.call_the_murder_target.skel
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/crow/fx/crow.sprite.caw.atlas
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/crow/fx/crow.sprite.caw.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/crow/fx/crow.sprite.caw.skel
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/crow/fx/crow.sprite.peck.atlas
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/crow/fx/crow.sprite.peck.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/crow/fx/crow.sprite.peck.skel
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/crow/fx/crow.sprite.regurgitate.atlas
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/crow/fx/crow.sprite.regurgitate.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/crow/fx/crow.sprite.regurgitate.skel
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/crow/fx/crow.sprite.regurgitate_target.atlas
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/crow/fx/crow.sprite.regurgitate_target.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/crow/fx/crow.sprite.regurgitate_target.skel
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/crow/fx/crow.sprite.shriek.atlas
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/crow/fx/crow.sprite.shriek.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/crow/fx/crow.sprite.shriek.skel
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_captain/anim/drowned_captain.sprite.attack_drink.atlas
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_captain/anim/drowned_captain.sprite.attack_drink.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_captain/anim/drowned_captain.sprite.attack_drink.skel
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_captain/anim/drowned_captain.sprite.attack_hook.atlas
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_captain/anim/drowned_captain.sprite.attack_hook.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_captain/anim/drowned_captain.sprite.attack_hook.skel
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_captain/anim/drowned_captain.sprite.attack_shout.atlas
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_captain/anim/drowned_captain.sprite.attack_shout.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_captain/anim/drowned_captain.sprite.attack_shout.skel
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_captain/anim/drowned_captain.sprite.combat.atlas
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_captain/anim/drowned_captain.sprite.combat.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_captain/anim/drowned_captain.sprite.combat.skel
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_captain/anim/drowned_captain.sprite.defend.atlas
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_captain/anim/drowned_captain.sprite.defend.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_captain/anim/drowned_captain.sprite.defend.skel
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_captain/drowned_captain_A/drowned_captain_A.art.darkest
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_captain/drowned_captain_A/tint.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_captain/drowned_captain_B/drowned_captain_B.art.darkest
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_captain/drowned_captain_B/tint.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_captain/drowned_captain_C/drowned_captain_C.art.darkest
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_captain/drowned_captain_C/tint.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_captain/fx/drowned_captain.sprite.all_hands.atlas
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_captain/fx/drowned_captain.sprite.all_hands.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_captain/fx/drowned_captain.sprite.all_hands.skel
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_captain/fx/drowned_captain.sprite.drink.atlas
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_captain/fx/drowned_captain.sprite.drink.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_captain/fx/drowned_captain.sprite.drink.skel
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_captain/fx/drowned_captain.sprite.gaffer_hook.atlas
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_captain/fx/drowned_captain.sprite.gaffer_hook.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_captain/fx/drowned_captain.sprite.gaffer_hook.skel
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_captain/fx/drowned_captain.sprite.shout.atlas
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_captain/fx/drowned_captain.sprite.shout.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_captain/fx/drowned_captain.sprite.shout.skel
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_captain/fx/drowned_captain.sprite.shout_target.atlas
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_captain/fx/drowned_captain.sprite.shout_target.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_captain/fx/drowned_captain.sprite.shout_target.skel
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_pirate/anim/drowned_pirate.sprite.attack_jig.atlas
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_pirate/anim/drowned_pirate.sprite.attack_jig.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_pirate/anim/drowned_pirate.sprite.attack_jig.skel
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_pirate/anim/drowned_pirate.sprite.attack_shanty.atlas
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_pirate/anim/drowned_pirate.sprite.attack_shanty.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_pirate/anim/drowned_pirate.sprite.attack_shanty.skel
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_pirate/anim/drowned_pirate.sprite.combat.atlas
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_pirate/anim/drowned_pirate.sprite.combat.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_pirate/anim/drowned_pirate.sprite.combat.skel
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_pirate/anim/drowned_pirate.sprite.dead.atlas
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_pirate/anim/drowned_pirate.sprite.dead.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_pirate/anim/drowned_pirate.sprite.dead.skel
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_pirate/anim/drowned_pirate.sprite.defend.atlas
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_pirate/anim/drowned_pirate.sprite.defend.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_pirate/anim/drowned_pirate.sprite.defend.skel
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_pirate/drowned_pirate_A/drowned_pirate_A.art.darkest
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_pirate/drowned_pirate_A/tint.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_pirate/drowned_pirate_B/drowned_pirate_B.art.darkest
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_pirate/drowned_pirate_B/tint.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_pirate/drowned_pirate_C/drowned_pirate_C.art.darkest
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_pirate/drowned_pirate_C/tint.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_pirate/fx/drowned_pirate.sprite.maddening_shanty.atlas
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_pirate/fx/drowned_pirate.sprite.maddening_shanty.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_pirate/fx/drowned_pirate.sprite.maddening_shanty.skel
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_pirate/fx/drowned_pirate.sprite.maddening_shanty_target.atlas
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_pirate/fx/drowned_pirate.sprite.maddening_shanty_target.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_pirate/fx/drowned_pirate.sprite.maddening_shanty_target.skel
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_pirate/fx/drowned_pirate.sprite.offkilter_jig.atlas
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_pirate/fx/drowned_pirate.sprite.offkilter_jig.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/drowned_pirate/fx/drowned_pirate.sprite.offkilter_jig.skel
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/swine_drummer/anim/swine_drummer.sprite.attack_ranged.atlas
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/swine_drummer/anim/swine_drummer.sprite.attack_ranged.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/swine_drummer/anim/swine_drummer.sprite.attack_ranged.skel
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/swine_drummer/anim/swine_drummer.sprite.combat.atlas
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/swine_drummer/anim/swine_drummer.sprite.combat.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/swine_drummer/anim/swine_drummer.sprite.combat.skel
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/swine_drummer/anim/swine_drummer.sprite.dead.atlas
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/swine_drummer/anim/swine_drummer.sprite.dead.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/swine_drummer/anim/swine_drummer.sprite.dead.skel
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/swine_drummer/anim/swine_drummer.sprite.defend.atlas
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/swine_drummer/anim/swine_drummer.sprite.defend.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/swine_drummer/anim/swine_drummer.sprite.defend.skel
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/swine_drummer/fx/swine_drummer.sprite.drum_debuff_target.atlas
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/swine_drummer/fx/swine_drummer.sprite.drum_debuff_target.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/swine_drummer/fx/swine_drummer.sprite.drum_debuff_target.skel
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/swine_drummer/fx/swine_drummer.sprite.drum_fear_target.atlas
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/swine_drummer/fx/swine_drummer.sprite.drum_fear_target.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/swine_drummer/fx/swine_drummer.sprite.drum_fear_target.skel
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/swine_drummer/swine_drummer_A/swine_drummer_A.art.darkest
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/swine_drummer/swine_drummer_A/tint.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/swine_drummer/swine_drummer_B/swine_drummer_B.art.darkest
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/swine_drummer/swine_drummer_B/tint.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/swine_drummer/swine_drummer_C/swine_drummer_C.art.darkest
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/monsters/swine_drummer/swine_drummer_C/tint.png
+E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/heroes/man_at_arms/man_at_arms.info.darkest
+
+-------------------------------------------------------------------------------
+Modded files...
+
+dlc/580100_crimson_court/features/crimson_court/monsters/sycophant/sycophant_A/sycophant_A.info.darkest
+dlc/580100_crimson_court/features/crimson_court/monsters/sycophant/sycophant_B/sycophant_B.info.darkest
+dlc/580100_crimson_court/features/crimson_court/monsters/sycophant/sycophant_C/sycophant_C.info.darkest
+monsters/crow/crow_A/crow_A.info.darkest
+monsters/crow/crow_B/crow_B.info.darkest
+monsters/crow/crow_C/crow_C.info.darkest
+monsters/drowned_captain/drowned_captain_A/drowned_captain_A.info.darkest
+monsters/drowned_captain/drowned_captain_B/drowned_captain_B.info.darkest
+monsters/drowned_captain/drowned_captain_C/drowned_captain_C.info.darkest
+monsters/drowned_pirate/drowned_pirate_A/drowned_pirate_A.info.darkest
+monsters/drowned_pirate/drowned_pirate_B/drowned_pirate_B.info.darkest
+monsters/drowned_pirate/drowned_pirate_C/drowned_pirate_C.info.darkest
+monsters/swine_drummer/swine_drummer_A/swine_drummer_A.info.darkest
+monsters/swine_drummer/swine_drummer_B/swine_drummer_B.info.darkest
+monsters/swine_drummer/swine_drummer_C/swine_drummer_C.info.darkest
+heroes/antiquarian/antiquarian.info.darkest
+heroes/crusader/crusader.info.darkest
+heroes/hellion/hellion.info.darkest
+heroes/houndmaster/houndmaster.info.darkest
+heroes/jester/jester.info.darkest
+effects/base.effects.darkest
+effects/voices.effects.darkest
+VoicesTest_project.xml
+modfiles.txt
+preview_icon.png
+project.xml
+
+Submitting................................................................................................................................Submitted.
+Saving project file E:\XinSon\Desktop\Darkest Dungeon mods\Darkest dungeon Voices Test\data\VoicesTest_project.xml
+

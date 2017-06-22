@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<PreviewIconFile>preview_icon.png</PreviewIconFile>
+	<ItemDescriptionShort/>
+	<ModDataPath>E:/XinSon/Desktop/Darkest Dungeon mods/Darkest dungeon Voices Test/data/</ModDataPath>
+	<Title>Voices Test version!</Title>
+	<Language>english</Language>
+	<UpdateDetails/>
+	<Visibility>private</Visibility>
+	<UploadMode>direct_upload</UploadMode>
+	<VersionMajor>2</VersionMajor>
+	<VersionMinor>0</VersionMinor>
+	<TargetBuild>0</TargetBuild>
+	<Tags>
+		<Tags>Gameplay Tweaks</Tags>
+		<Tags>Class Tweaks</Tags>
+	</Tags>
+	<ItemDescription>Test version of voices be heard
+	</ItemDescription>
+	<PublishedFileId>952704870</PublishedFileId>
+</project>
+
